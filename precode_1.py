@@ -10,7 +10,7 @@ class TestHobbitsPriorityStatus:
             ['Фродо', 'Platinum'],
             ['Сэм', 'Gold'],
             ['Мерри', 'Silver'],
-            ['Пиппин', 'Silver'],
+            ['Пиппин', 'Bronze'],
         ]
     )
     def test_priority_status(self, hobbit, priority_status):
